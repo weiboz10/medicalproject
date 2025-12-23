@@ -1,0 +1,475 @@
+=== 00005518952bfd8ae8342c53462aa450.avi ===
+brightest frame     2 brightness   50.133
+dimmest   frame     4 brightness   48.718
+brightest frame    13 brightness  103.155
+dimmest   frame    15 brightness   47.257
+brightest frame    19 brightness   57.736
+dimmest   frame    22 brightness   46.392
+brightest frame    25 brightness   57.002
+dimmest   frame    38 brightness   26.167
+brightest frame    51 brightness   58.203
+dimmest   frame    55 brightness   51.083
+brightest frame    66 brightness   69.711
+dimmest   frame    72 brightness   37.661
+brightest frame    73 brightness   39.049
+dimmest   frame    77 brightness   30.840
+brightest frame    90 brightness   63.367
+dimmest   frame    93 brightness   53.695
+brightest frame    94 brightness   54.118
+dimmest   frame    96 brightness   51.208
+brightest frame    98 brightness   55.408
+dimmest   frame    99 brightness   55.129
+brightest frame   100 brightness   55.406
+dimmest   frame   101 brightness   55.204
+brightest frame   105 brightness   62.703
+dimmest   frame   114 brightness   30.460
+brightest frame   115 brightness   30.672
+dimmest   frame   118 brightness   29.068
+brightest frame   119 brightness   29.445
+dimmest   frame   120 brightness   29.160
+brightest frame   122 brightness   31.797
+dimmest   frame   125 brightness   29.341
+brightest frame   126 brightness   30.562
+dimmest   frame   127 brightness   29.945
+brightest frame   128 brightness   30.391
+dimmest   frame   129 brightness   30.112
+brightest frame   131 brightness   31.196
+dimmest   frame   134 brightness   28.273
+brightest frame   135 brightness   28.812
+dimmest   frame   136 brightness   28.095
+brightest frame   139 brightness   35.922
+dimmest   frame   141 brightness   33.828
+brightest frame   142 brightness   37.426
+dimmest   frame   144 brightness   32.616
+brightest frame   147 brightness   42.351
+dimmest   frame   150 brightness   35.521
+brightest frame   151 brightness   35.847
+dimmest   frame   152 brightness   35.506
+brightest frame   154 brightness   41.672
+dimmest   frame   157 brightness   33.912
+brightest frame   158 brightness   37.123
+Saved frames:
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00002_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00004_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00013_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00015_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00019_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00022_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00025_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00038_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00051_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00055_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00066_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00072_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00073_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00077_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00090_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00093_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00094_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00096_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00098_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00099_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00100_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00101_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00105_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00114_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00115_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00118_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00119_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00120_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00122_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00125_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00126_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00127_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00128_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00129_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00131_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00134_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00135_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00136_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00139_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00141_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00142_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00144_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00147_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00150_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00151_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00152_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00154_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00157_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00005518952bfd8ae8342c53462aa450/frame_00158_brightest.png
+
+=== 00336e8055a57d131a979047bd087bfa.avi ===
+dimmest   frame     2 brightness   60.897
+brightest frame     5 brightness  103.370
+dimmest   frame     6 brightness  103.370
+brightest frame    12 brightness  103.404
+dimmest   frame    14 brightness   24.029
+brightest frame    27 brightness   57.594
+dimmest   frame    29 brightness   56.640
+brightest frame    30 brightness   57.013
+dimmest   frame    41 brightness   34.570
+brightest frame    57 brightness   62.608
+dimmest   frame    58 brightness   62.119
+brightest frame    61 brightness   62.880
+dimmest   frame    70 brightness   51.423
+brightest frame    79 brightness   61.056
+dimmest   frame    84 brightness   60.427
+brightest frame    87 brightness   64.072
+dimmest   frame    89 brightness   63.207
+brightest frame    91 brightness   64.249
+dimmest   frame   100 brightness   52.213
+brightest frame   108 brightness   61.259
+dimmest   frame   110 brightness   61.061
+brightest frame   111 brightness   61.273
+dimmest   frame   112 brightness   61.203
+brightest frame   113 brightness   61.277
+dimmest   frame   114 brightness   61.161
+brightest frame   116 brightness   64.020
+dimmest   frame   118 brightness   63.464
+brightest frame   120 brightness   64.060
+dimmest   frame   130 brightness   52.161
+brightest frame   141 brightness   62.400
+dimmest   frame   143 brightness   61.991
+brightest frame   147 brightness   64.653
+dimmest   frame   148 brightness   64.156
+brightest frame   151 brightness   64.724
+dimmest   frame   160 brightness   54.013
+brightest frame   171 brightness   62.456
+dimmest   frame   173 brightness   62.074
+brightest frame   176 brightness   65.150
+dimmest   frame   178 brightness   63.783
+brightest frame   180 brightness   64.827
+dimmest   frame   190 brightness   52.957
+brightest frame   198 brightness   62.174
+dimmest   frame   199 brightness   61.845
+brightest frame   200 brightness   62.214
+dimmest   frame   201 brightness   62.045
+brightest frame   206 brightness   65.603
+dimmest   frame   207 brightness   64.099
+brightest frame   210 brightness   64.636
+dimmest   frame   219 brightness   54.262
+brightest frame   230 brightness   62.311
+dimmest   frame   232 brightness   62.032
+brightest frame   235 brightness   65.249
+dimmest   frame   238 brightness   64.450
+brightest frame   239 brightness   65.388
+dimmest   frame   249 brightness   56.180
+brightest frame   256 brightness   63.762
+dimmest   frame   258 brightness   63.327
+brightest frame   260 brightness   63.689
+dimmest   frame   261 brightness   63.547
+brightest frame   266 brightness   65.824
+dimmest   frame   268 brightness   65.394
+brightest frame   270 brightness   66.331
+dimmest   frame   279 brightness   55.542
+brightest frame   287 brightness   63.407
+dimmest   frame   288 brightness   63.093
+brightest frame   290 brightness   63.417
+dimmest   frame   293 brightness   62.698
+brightest frame   296 brightness   65.433
+dimmest   frame   297 brightness   65.105
+Saved frames:
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00002_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00005_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00006_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00012_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00014_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00027_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00029_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00030_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00041_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00057_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00058_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00061_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00070_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00079_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00084_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00087_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00089_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00091_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00100_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00108_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00110_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00111_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00112_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00113_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00114_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00116_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00118_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00120_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00130_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00141_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00143_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00147_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00148_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00151_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00160_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00171_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00173_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00176_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00178_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00180_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00190_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00198_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00199_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00200_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00201_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00206_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00207_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00210_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00219_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00230_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00232_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00235_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00238_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00239_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00249_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00256_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00258_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00260_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00261_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00266_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00268_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00270_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00279_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00287_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00288_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00290_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00293_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00296_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/00336e8055a57d131a979047bd087bfa/frame_00297_dimmest.png
+
+=== 0038f2d7127e2bf024099d069a0eb3dc.avi ===
+brightest frame     3 brightness  103.031
+dimmest   frame     4 brightness  103.015
+brightest frame     5 brightness  103.044
+dimmest   frame     6 brightness  103.032
+brightest frame     8 brightness  103.064
+dimmest   frame    10 brightness  103.046
+brightest frame    11 brightness  103.059
+dimmest   frame    13 brightness   29.519
+brightest frame    17 brightness   39.968
+dimmest   frame    18 brightness   39.961
+brightest frame    26 brightness   51.392
+dimmest   frame    36 brightness   34.726
+brightest frame    44 brightness   48.560
+dimmest   frame    49 brightness   47.192
+brightest frame    53 brightness   52.980
+dimmest   frame    54 brightness   52.900
+brightest frame    55 brightness   53.033
+dimmest   frame    63 brightness   35.421
+brightest frame    64 brightness   35.635
+dimmest   frame    65 brightness   35.467
+brightest frame    71 brightness   47.582
+dimmest   frame    72 brightness   47.548
+brightest frame    73 brightness   47.565
+dimmest   frame    74 brightness   47.269
+brightest frame    81 brightness   54.898
+dimmest   frame    82 brightness   54.628
+brightest frame    83 brightness   54.810
+dimmest   frame    92 brightness   39.608
+brightest frame    98 brightness   50.955
+dimmest   frame   103 brightness   49.753
+brightest frame   108 brightness   55.539
+dimmest   frame   118 brightness   38.147
+brightest frame   126 brightness   51.232
+dimmest   frame   129 brightness   50.187
+brightest frame   136 brightness   57.071
+dimmest   frame   146 brightness   38.817
+brightest frame   147 brightness   38.966
+dimmest   frame   148 brightness   38.756
+brightest frame   154 brightness   50.108
+dimmest   frame   157 brightness   49.238
+brightest frame   164 brightness   54.853
+dimmest   frame   173 brightness   39.360
+brightest frame   182 brightness   49.177
+dimmest   frame   185 brightness   48.678
+brightest frame   192 brightness   55.382
+dimmest   frame   201 brightness   40.982
+brightest frame   210 brightness   52.221
+dimmest   frame   211 brightness   51.869
+brightest frame   219 brightness   58.655
+dimmest   frame   229 brightness   44.396
+brightest frame   237 brightness   55.751
+dimmest   frame   239 brightness   55.026
+brightest frame   240 brightness   55.268
+dimmest   frame   241 brightness   55.176
+brightest frame   243 brightness   55.632
+dimmest   frame   244 brightness   55.622
+brightest frame   247 brightness   59.146
+dimmest   frame   256 brightness   44.006
+brightest frame   258 brightness   44.472
+dimmest   frame   260 brightness   44.026
+brightest frame   265 brightness   50.773
+dimmest   frame   267 brightness   50.276
+brightest frame   268 brightness   50.338
+dimmest   frame   269 brightness   50.297
+Saved frames:
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00003_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00004_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00005_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00006_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00008_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00010_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00011_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00013_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00017_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00018_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00026_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00036_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00044_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00049_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00053_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00054_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00055_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00063_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00064_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00065_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00071_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00072_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00073_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00074_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00081_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00082_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00083_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00092_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00098_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00103_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00108_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00118_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00126_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00129_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00136_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00146_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00147_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00148_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00154_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00157_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00164_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00173_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00182_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00185_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00192_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00201_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00210_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00211_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00219_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00229_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00237_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00239_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00240_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00241_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00243_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00244_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00247_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00256_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00258_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00260_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00265_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00267_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00268_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/0038f2d7127e2bf024099d069a0eb3dc/frame_00269_dimmest.png
+
+=== 003c9aeb70d7b2a4a38fe283a346b505.avi ===
+dimmest   frame     1 brightness   55.170
+brightest frame     2 brightness   56.377
+dimmest   frame     9 brightness   46.147
+brightest frame    18 brightness  103.139
+dimmest   frame    19 brightness  103.130
+brightest frame    23 brightness  103.225
+dimmest   frame    29 brightness   32.556
+brightest frame    36 brightness   52.667
+dimmest   frame    37 brightness   52.562
+brightest frame    39 brightness   59.008
+dimmest   frame    41 brightness   56.505
+brightest frame    45 brightness   59.216
+dimmest   frame    50 brightness   47.694
+brightest frame    56 brightness   60.515
+dimmest   frame    58 brightness   58.340
+brightest frame    60 brightness   62.018
+dimmest   frame    64 brightness   59.058
+brightest frame    66 brightness   60.917
+dimmest   frame    72 brightness   50.272
+brightest frame    77 brightness   60.809
+dimmest   frame    79 brightness   59.477
+brightest frame    81 brightness   62.141
+dimmest   frame    84 brightness   57.801
+brightest frame    86 brightness   59.190
+dimmest   frame    93 brightness   46.804
+brightest frame    98 brightness   56.750
+dimmest   frame   100 brightness   55.757
+brightest frame   103 brightness   58.844
+dimmest   frame   105 brightness   56.241
+brightest frame   108 brightness   58.284
+dimmest   frame   114 brightness   45.812
+brightest frame   120 brightness   57.110
+dimmest   frame   122 brightness   55.718
+brightest frame   124 brightness   58.555
+dimmest   frame   127 brightness   56.321
+brightest frame   129 brightness   58.353
+dimmest   frame   136 brightness   45.689
+brightest frame   141 brightness   57.264
+dimmest   frame   144 brightness   56.588
+brightest frame   146 brightness   59.865
+dimmest   frame   148 brightness   57.009
+brightest frame   150 brightness   59.602
+dimmest   frame   157 brightness   45.385
+brightest frame   163 brightness   57.620
+dimmest   frame   164 brightness   57.119
+brightest frame   165 brightness   57.467
+dimmest   frame   166 brightness   57.450
+brightest frame   167 brightness   60.380
+dimmest   frame   169 brightness   58.573
+brightest frame   172 brightness   60.963
+Saved frames:
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00001_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00002_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00009_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00018_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00019_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00023_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00029_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00036_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00037_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00039_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00041_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00045_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00050_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00056_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00058_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00060_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00064_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00066_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00072_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00077_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00079_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00081_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00084_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00086_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00093_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00098_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00100_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00103_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00105_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00108_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00114_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00120_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00122_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00124_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00127_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00129_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00136_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00141_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00144_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00146_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00148_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00150_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00157_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00163_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00164_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00165_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00166_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00167_brightest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00169_dimmest.png
+  /Users/inqq/Workshop/autolabeler/medicalproj/output_frames/003c9aeb70d7b2a4a38fe283a346b505/frame_00172_brightest.png
